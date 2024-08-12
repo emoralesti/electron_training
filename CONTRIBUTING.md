@@ -19,6 +19,7 @@ Issues are created [here](https://github.com/electron/electron/issues/new).
 * [Submitting a Bug Report](https://electronjs.org/docs/development/issues#submitting-a-bug-report)
 * [Triaging a Bug Report](https://electronjs.org/docs/development/issues#triaging-a-bug-report)
 * [Resolving a Bug Report](https://electronjs.org/docs/development/issues#resolving-a-bug-report)
+* [Git and github training](https://github.com)
 
 ### Issue Closure
 
